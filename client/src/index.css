@@ -1,0 +1,50 @@
+body {
+  background-color: #fffde7 !important;
+  color: #333;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+
+.bg-amber {
+  background-color: #f5a623 !important;
+}
+
+.text-amber {
+  color: #f5a623 !important;
+}
+
+.btn-amber {
+  background-color: #f5a623 !important;
+  color: #000 !important;
+  border: none;
+  font-weight: 600;
+}
+
+.btn-amber:hover {
+  background-color: #e0961b !important;
+}
+
+.btn-dark-custom {
+  background-color: #1a1a2e !important;
+  color: #fff !important;
+  border: none;
+}
+
+.btn-dark-custom:hover {
+  background-color: #0f0f1c !important;
+}
+
+.card-custom {
+  border: 1px solid #dee2e6;
+  border-radius: 8px;
+  background-color: #fff;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+}
+
+.nav-link-custom {
+  color: #000 !important;
+  font-weight: 500;
+}
+
+.nav-link-custom:hover {
+  color: #333 !important;
+}
